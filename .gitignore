@@ -16,6 +16,9 @@
 .pnp.js
 /.idea
 
+# next.js
+/.next/
+/out/
 # testing
 /coverage
 
@@ -38,6 +41,6 @@ yarn-error.log*
 .iml
 .xml
 .idea
-/.idea/
 
 config.json
+next-env.d.ts
