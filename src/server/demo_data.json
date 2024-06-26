@@ -1,0 +1,300 @@
+{
+  "schedules": [
+    {
+      "eventSlotDto": {
+        "id": "13c6bff3-6b3c-4d78-8d53-1b9a0ffb1c4d",
+        "startTime": "2024-06-21T09:00",
+        "endTime": "2024-06-21T10:00",
+        "availableSpots": 1,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "serviceId": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "instructorId": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "eventReference": "849648f2-3d4d-4f83-9e7c-6e6ec63b3b34",
+        "duration": 60,
+        "hasPaymentEnabled": false,
+        "eventType": "PRIVATE",
+        "totalSpots": 1,
+        "price": 70,
+        "repeatType": "SPECIFIC_DAYS",
+        "startDate": "2024-06-10",
+        "endEndDate": "2024-07-26",
+        "timeslots": [],
+        "repeatedDays": []
+      },
+      "serviceDto": {
+        "id": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "name": "Los consult (45 min)",
+        "description": "Vervolgconsult of eenmalig adviesgesprek over jouw gezondheidskwestie",
+        "addressStreetNumber": null,
+        "addressStreetName": "NL",
+        "addressCity": "AM",
+        "addressCountry": "NL",
+        "featuredImage": "outing/_2024-3-28-19-18-26.jpeg",
+        "currency": null,
+        "images": [
+          ""
+        ],
+        "isActive": false,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "tags": []
+      },
+      "instructorDto": {
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "bio": "just a test is testing his bieo on the testing enviremenent",
+        "services": [],
+        "certificates": null,
+        "languages": null,
+        "specialties": [
+          "5627843d-11fa-4f9d-889d-f5502f37631e",
+          "8e8d1346-74c7-4ef9-b6a8-0fdd37cf5a27",
+          "a4723429-34c1-4bbd-9900-d1a6d75e23c8",
+          "4d9075e5-df90-4c88-bbfa-3c47f120ef3b",
+          "7fd1eaf0-2da3-420b-8b78-5a17892ccf7f"
+        ],
+        "categories": [
+          "dd1fd9fa-79cb-47d7-94e7-6447b48191ad",
+          "f5d0a819-1f14-49db-8770-53b5e169b3b0"
+        ],
+        "title": "Voedingsdeskundige",
+        "yearsOfExperience": 2,
+        "createdAt": null,
+        "id": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "password": null,
+        "email": "tester@gmail.com",
+        "resetPasswordToken": null,
+        "firstName": "Anouchka",
+        "lastName": "González Perich",
+        "isActivated": true,
+        "archived": false,
+        "isTrusted": true,
+        "roles": null,
+        "profilePicture": "outing/_2024-6-14-13-18-23.jpeg",
+        "contact": null
+      }
+    },
+    {
+      "eventSlotDto": {
+        "id": "e0fa55ea-7d97-46f3-b02a-ef905b19f194",
+        "startTime": "2024-06-24T09:00",
+        "endTime": "2024-06-24T10:00",
+        "availableSpots": 1,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "serviceId": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "instructorId": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "eventReference": "849648f2-3d4d-4f83-9e7c-6e6ec63b3b34",
+        "duration": 60,
+        "hasPaymentEnabled": false,
+        "eventType": "PRIVATE",
+        "totalSpots": 1,
+        "price": 70,
+        "repeatType": "SPECIFIC_DAYS",
+        "startDate": "2024-06-10",
+        "endEndDate": "2024-07-26",
+        "timeslots": [],
+        "repeatedDays": []
+      },
+      "serviceDto": {
+        "id": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "name": "Los consult (45 min)",
+        "description": "Vervolgconsult of eenmalig adviesgesprek over jouw gezondheidskwestie",
+        "addressStreetNumber": null,
+        "addressStreetName": "NL",
+        "addressCity": "AM",
+        "addressCountry": "NL",
+        "featuredImage": "outing/_2024-3-28-19-18-26.jpeg",
+        "currency": null,
+        "images": [
+          ""
+        ],
+        "isActive": false,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "tags": []
+      },
+      "instructorDto": {
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "bio": "just a test is testing his bieo on the testing enviremenent",
+        "services": [],
+        "certificates": null,
+        "languages": null,
+        "specialties": [
+          "5627843d-11fa-4f9d-889d-f5502f37631e",
+          "8e8d1346-74c7-4ef9-b6a8-0fdd37cf5a27",
+          "a4723429-34c1-4bbd-9900-d1a6d75e23c8",
+          "4d9075e5-df90-4c88-bbfa-3c47f120ef3b",
+          "7fd1eaf0-2da3-420b-8b78-5a17892ccf7f"
+        ],
+        "categories": [
+          "dd1fd9fa-79cb-47d7-94e7-6447b48191ad",
+          "f5d0a819-1f14-49db-8770-53b5e169b3b0"
+        ],
+        "title": "Voedingsdeskundige",
+        "yearsOfExperience": 2,
+        "createdAt": null,
+        "id": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "password": null,
+        "email": "tester@gmail.com",
+        "resetPasswordToken": null,
+        "firstName": "Anouchka",
+        "lastName": "González Perich",
+        "isActivated": true,
+        "archived": false,
+        "isTrusted": true,
+        "roles": null,
+        "profilePicture": "outing/_2024-6-14-13-18-23.jpeg",
+        "contact": null
+      }
+    },
+    {
+      "eventSlotDto": {
+        "id": "2e0154a1-62a6-4781-9b07-e6a2faeb30f1",
+        "startTime": "2024-06-25T09:00",
+        "endTime": "2024-06-25T10:00",
+        "availableSpots": 1,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "serviceId": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "instructorId": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "eventReference": "849648f2-3d4d-4f83-9e7c-6e6ec63b3b34",
+        "duration": 60,
+        "hasPaymentEnabled": false,
+        "eventType": "PRIVATE",
+        "totalSpots": 1,
+        "price": 70,
+        "repeatType": "SPECIFIC_DAYS",
+        "startDate": "2024-06-10",
+        "endEndDate": "2024-07-26",
+        "timeslots": [],
+        "repeatedDays": []
+      },
+      "serviceDto": {
+        "id": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "name": "Los consult (45 min)",
+        "description": "Vervolgconsult of eenmalig adviesgesprek over jouw gezondheidskwestie",
+        "addressStreetNumber": null,
+        "addressStreetName": "NL",
+        "addressCity": "AM",
+        "addressCountry": "NL",
+        "featuredImage": "outing/_2024-3-28-19-18-26.jpeg",
+        "currency": null,
+        "images": [
+          ""
+        ],
+        "isActive": false,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "tags": []
+      },
+      "instructorDto": {
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "bio": "just a test is testing his bieo on the testing enviremenent",
+        "services": [],
+        "certificates": null,
+        "languages": null,
+        "specialties": [
+          "5627843d-11fa-4f9d-889d-f5502f37631e",
+          "8e8d1346-74c7-4ef9-b6a8-0fdd37cf5a27",
+          "a4723429-34c1-4bbd-9900-d1a6d75e23c8",
+          "4d9075e5-df90-4c88-bbfa-3c47f120ef3b",
+          "7fd1eaf0-2da3-420b-8b78-5a17892ccf7f"
+        ],
+        "categories": [
+          "dd1fd9fa-79cb-47d7-94e7-6447b48191ad",
+          "f5d0a819-1f14-49db-8770-53b5e169b3b0"
+        ],
+        "title": "Voedingsdeskundige",
+        "yearsOfExperience": 2,
+        "createdAt": null,
+        "id": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "password": null,
+        "email": "tester@gmail.com",
+        "resetPasswordToken": null,
+        "firstName": "Anouchka",
+        "lastName": "González Perich",
+        "isActivated": true,
+        "archived": false,
+        "isTrusted": true,
+        "roles": null,
+        "profilePicture": "outing/_2024-6-14-13-18-23.jpeg",
+        "contact": null
+      }
+    },
+    {
+      "eventSlotDto": {
+        "id": "a407bd1f-bbdd-4dd6-97a8-f3d37e3286cf",
+        "startTime": "2024-06-26T09:00",
+        "endTime": "2024-06-26T10:00",
+        "availableSpots": 1,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "serviceId": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "instructorId": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "eventReference": "849648f2-3d4d-4f83-9e7c-6e6ec63b3b34",
+        "duration": 60,
+        "hasPaymentEnabled": false,
+        "eventType": "PRIVATE",
+        "totalSpots": 1,
+        "price": 70,
+        "repeatType": "SPECIFIC_DAYS",
+        "startDate": "2024-06-10",
+        "endEndDate": "2024-07-26",
+        "timeslots": [],
+        "repeatedDays": []
+      },
+      "serviceDto": {
+        "id": "d3c9c963-1ec8-493b-a4d6-f25d1be5f2bb",
+        "name": "Los consult (45 min)",
+        "description": "Vervolgconsult of eenmalig adviesgesprek over jouw gezondheidskwestie",
+        "addressStreetNumber": null,
+        "addressStreetName": "NL",
+        "addressCity": "AM",
+        "addressCountry": "NL",
+        "featuredImage": "outing/_2024-3-28-19-18-26.jpeg",
+        "currency": null,
+        "images": [
+          ""
+        ],
+        "isActive": false,
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "tags": []
+      },
+      "instructorDto": {
+        "organizationId": "fb7b32fa-7b7e-4889-9e95-34f24d737f27",
+        "rating": null,
+        "bio": "just a test is testing his bieo on the testing enviremenent",
+        "services": [],
+        "certificates": null,
+        "languages": null,
+        "specialties": [
+          "5627843d-11fa-4f9d-889d-f5502f37631e",
+          "8e8d1346-74c7-4ef9-b6a8-0fdd37cf5a27",
+          "a4723429-34c1-4bbd-9900-d1a6d75e23c8",
+          "4d9075e5-df90-4c88-bbfa-3c47f120ef3b",
+          "7fd1eaf0-2da3-420b-8b78-5a17892ccf7f"
+        ],
+        "categories": [
+          "dd1fd9fa-79cb-47d7-94e7-6447b48191ad",
+          "f5d0a819-1f14-49db-8770-53b5e169b3b0"
+        ],
+        "title": "Voedingsdeskundige",
+        "yearsOfExperience": 2,
+        "createdAt": null,
+        "id": "1bce8825-0744-4b9b-8c2e-cbdd16fd8f10",
+        "password": null,
+        "email": "tester@gmail.com",
+        "resetPasswordToken": null,
+        "firstName": "Anouchka",
+        "lastName": "González Perich",
+        "isActivated": true,
+        "archived": false,
+        "isTrusted": true,
+        "roles": null,
+        "profilePicture": "outing/_2024-6-14-13-18-23.jpeg",
+        "contact": null
+      }
+    }
+  ]
+}
