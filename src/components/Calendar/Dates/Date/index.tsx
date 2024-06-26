@@ -33,18 +33,12 @@ function Date(props: Props) {
   }, [props.workTimes, props.day])
 
   const dateClasses = useMemo(() => {
-    const activeClasses = () => {
-      if (props.activeDay && isSameDay(props.activeDay, props.day))
-        return "bg-blue-500 text-white"
-      if (
-        isSameMonth(props.day, props.activeDay ?? props.firstDayOfMonth) ||
-        props.type === View.WEEK
-      ) {
-        return "text-gray-900"
-      } else return "text-gray-400"
-    }
 
-    return ` flex items-center flex-col  justify-center text-xs font-semibold h-8 w-8 rounded-full  ${isActiveDay && " cursor-pointer hover:text-white hover:bg-blue-500"} ${activeClasses()}  `
+
+    return `${props.activeDay && isSameDay(props.activeDay, props.day) && "bg-blue-500 text-white"} ${(
+        isSameMonth(props.day, props.firstDayOfMonth) ||
+        props.type === View.WEEK
+    ) ? "text-gray-900" : "text-gray-400"} flex items-center flex-col  justify-center text-xs font-semibold h-8 w-8 rounded-full  ${isActiveDay && " cursor-pointer hover:text-white hover:bg-blue-500"}`
   }, [
     props.active,
     props.activeDay,
