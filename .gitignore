@@ -38,5 +38,6 @@ yarn-error.log*
 .iml
 .xml
 .idea
+/.idea/
 
 config.json
